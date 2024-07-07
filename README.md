@@ -7,7 +7,7 @@ I am a budding expert in my research field constantly gaining delta knowledge ev
 
 [Gmail](hmohanty@usc.edu)/[LinkedIn](https://www.linkedin.com/in/hardhik-mohanty-38862a190/)/[Github](https://github.com/hardhik-99)/[Google Scholar](https://scholar.google.com/citations?hl=en&user=99B3RkcAAAAJ&view_op=list_works&sortby=pubdate)
 
-## Researh Interests
+## Research Interests
 
 
 ## Publications
