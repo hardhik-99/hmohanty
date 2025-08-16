@@ -98,14 +98,23 @@
         justify-content: center;
     }
 }
+
+/* Hide GitHub Pages footer elements */
+.site-footer,
+footer,
+.footer,
+.view {
+    display: none !important;
+}
+
+p:contains("Hosted on GitHub Pages"),
+p:contains("Theme by"),
+p:contains("orderedlist") {
+    display: none !important;
+}
 </style>
 
-<div class="contact-links">
-    <a href="mailto:hmohanty@usc.edu">Gmail</a> ⬥ 
-    <a href="https://www.linkedin.com/in/hardhik-mohanty-38862a190/" target="_blank">LinkedIn</a> ⬥ 
-    <a href="https://github.com/hardhik-99" target="_blank">Github</a> ⬥ 
-    <a href="https://scholar.google.com/citations?hl=en&user=99B3RkcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
-</div>
+
 
 <div class="tab-container">
     <div class="tab-nav">
@@ -116,7 +125,15 @@
 
     <div id="about" class="tab-content active">
         <h2>About Me</h2>
-        <p>Hey sup, I am a ML researcher Blockchain and DeFi researcher at University of Southern California, Los Angeles. As you might have guessed from the location, frequent beach trips and drives along the Pacific coast are my thing. Currently, I am pursuing my PhD in Electrical and Computer Engineering along with Master's in Financial Engineering from USC (finance is like my side hustle!). It also helps build the fundamentals for my DeFi research.</p>
+        
+        <div class="contact-links">
+            <a href="mailto:hmohanty@usc.edu">Gmail</a> ⬥ 
+            <a href="https://www.linkedin.com/in/hardhik-mohanty-38862a190/" target="_blank">LinkedIn</a> ⬥ 
+            <a href="https://github.com/hardhik-99" target="_blank">Github</a> ⬥ 
+            <a href="https://scholar.google.com/citations?hl=en&user=99B3RkcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
+        </div>
+        
+        <p>Hey sup, I am a ML researcher focusing on applications related to Blockchain and DeFi Markets at University of Southern California, Los Angeles. As you might have guessed from the location, frequent beach trips and drives along the Pacific coast are my thing. Currently, I am pursuing my PhD in Electrical and Computer Engineering along with Master's in Financial Engineering from USC (finance is like my side hustle!). It also helps build the fundamentals for my DeFi markets research.</p>
         
         <p>Prior to this, I worked as a mitacs globalink research intern at York University, Toronto. Here i explored topics like deep learning algorithms for darknet characterization and behavioral profiling of malware attacks. Overall, I had a fantastic hands-on experience with several network security projects and simultaneously improved my computational and systems skills!!</p>
         
