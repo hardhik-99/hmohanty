@@ -119,7 +119,6 @@ p:contains("orderedlist") {
 <div class="tab-container">
           <div class="tab-nav">
           <button class="tab-button active" onclick="showTab(event, 'about')">About</button>
-          <button class="tab-button" onclick="showTab(event, 'backgrounds')">Backgrounds</button>
           <button class="tab-button" onclick="showTab(event, 'research')">Research Interests</button>
           <button class="tab-button" onclick="showTab(event, 'publications')">Publications</button>
     </div>
@@ -137,13 +136,11 @@ p:contains("orderedlist") {
         <p>I am a Machine Learning and Quantitative Researcher focusing on applications in Blockchain and Decentralized Finance (DeFi) markets at the University of Southern California, Los Angeles. Currently pursuing my PhD in Electrical and Computer Engineering alongside a Master's degree in Financial Engineering from USC. During the summer of 2025, I completed an internship at Coinbase, where I focused on improving training data quality for machine learning models designed to detect on-chain fraudulent activities. This experience provided me with comprehensive exposure to the entire machine learning pipeline, including the development of Airflow DAGs for training data generation, feature engineering on Tecton, and training Graph Neural Networks on Kumo.</p>
         
         <p>During Summer 2022, I was a Mitacs Globalink Research Intern at York University, Toronto. My research focused on deep learning algorithms for darknet characterization and behavioral profiling of malware attacks. This experience provided valuable hands-on exposure to various network security projects while enhancing my computational and systems engineering capabilities.</p>
-      </div>
 
-      <div id="backgrounds" class="tab-content">
         <h2>Educational Background</h2>
-        <p>My bachelor's and master's degree is from IIT Kharagpur, India. I majored in Electrical Engineering with a specialisation in ML, AI and its applications. I somehow (barely!) made it through the core circuity stuff but EE helped build my engineering mathematical foundation. I graduated with a 9.01 cgpa (phew!) out of 10 and department rank-2. During my undergrad research days, I explored reinforcement learning and bandit algorithms in non-stationary environment. Plus I peeked in the world of federated learning through my bachelor's thesis. Probably the reason I looked further into distributed computing and got hooked to blockchain. Also now integrating DeFi to my expertise!! (blame my try-out-new-things to stay happy mindset)</p>
+        <p>My bachelor's and master's degree are from IIT Kharagpur, India. I majored in Electrical Engineering with a specialisation in ML, AI and its applications. I somehow (barely!) made it through the core circuity stuff but EE helped build my engineering mathematical foundation. I graduated with a 9.01 cgpa (phew!) out of 10 and department rank-2. During my undergrad research days, I explored reinforcement learning and bandit algorithms in non-stationary environment. Plus I peeked in the world of federated learning through my bachelor's thesis. Probably the reason I looked further into distributed computing and got hooked to blockchain. Also now integrating DeFi to my expertise!! (blame my try-out-new-things to stay happy mindset)</p>
         
-        <p>I am a budding expert in my research field constantly gaining delta knowledge everyday. Also, creating new niche areas for fellow researchers to get baffled on. Look at the other tabs for more details on my interests and work! I love collaborations and networking with people academically!! Do reach out through my contacts for a discussion.</p>
+        <p>I am a budding expert in my research field constantly gaining delta knowledge everyday. Also, creating new niche areas for fellow researchers to get baffled on. Look at the other tabs for more details on my interests and work! I love collaborations and networking with people academically!! Do reach out through my contacts for a discussion. I fancy going out for frequent beach trips and driving along the pacific coast highway. I am also a gym rat and you can most likely spot me there afterhours haha</p>
       </div>
 
       <div id="research" class="tab-content">
