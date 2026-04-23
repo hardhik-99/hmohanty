@@ -1,0 +1,24 @@
+<section class="section news reveal" aria-labelledby="news-heading">
+  <h2 id="news-heading" class="rule-label"><span>News</span></h2>
+  <ul class="news-list">
+    {% assign items = site.data.news | sort: "sort" | reverse %}
+    {% for item in items %}
+    <li class="news-item">
+      <time class="news-item__date">
+        <span class="news-item__year">{{ item.date_year }}</span>
+        <span class="news-item__sep" aria-hidden="true">&middot;</span>
+        <span class="news-item__month">{{ item.date_month }}</span>
+      </time>
+      <div class="news-item__body">
+        <h3 class="news-item__title">{{ item.title }}</h3>
+        {% if item.body %}<p class="news-item__text">{{ item.body }}</p>{% endif %}
+        {% if item.link %}
+          <a class="news-item__link" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+            {{ item.link_label | default: "Read" }} <span aria-hidden="true">&rarr;</span>
+          </a>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

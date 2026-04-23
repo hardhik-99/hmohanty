@@ -1,0 +1,18 @@
+# Research interests for the editorial "Research Interests" section.
+# Rendered in order with large Roman numerals.
+
+- numeral: I
+  title: "Machine Learning for Cryptocurrency Markets"
+  tagline: "Robust AI for noisy, adversarial on-chain data streams."
+
+- numeral: II
+  title: "Tokenomics &amp; Incentive Design"
+  tagline: "Economic models and governance for sustainable networks."
+
+- numeral: III
+  title: "Consensus in Dynamic Networks"
+  tagline: "Protocols that adapt, recover, and scale."
+
+- numeral: IV
+  title: "Micropayments in Decentralized Networks"
+  tagline: "Fast, private, low-overhead value transfer."

@@ -1,0 +1,62 @@
+# Source of truth for the News section.
+# Sorted in reverse by the `sort` key (higher = more recent).
+# Each entry: { sort, date_year, date_month, title, body?, link?, link_label? }
+
+- sort: 202611
+  date_year: 2026
+  date_month: XI
+  title: "Paper accepted to IEEE ICBC 2026"
+  body: >-
+    <em>&ldquo;Who Restores the Peg? A Mean-Field Game Approach to Model
+    Stablecoin Market Dynamics.&rdquo;</em>
+  link: "https://arxiv.org/abs/2601.18991"
+  link_label: "arXiv"
+
+- sort: 202604
+  date_year: 2026
+  date_month: IV
+  title: "New preprint on crypto volatility"
+  body: >-
+    <em>&ldquo;Do Prediction Markets Forecast Cryptocurrency Volatility?
+    Evidence from Kalshi Macro Contracts.&rdquo;</em>
+  link: "https://arxiv.org/abs/2604.01431"
+  link_label: "arXiv"
+
+- sort: 202508
+  date_year: 2025
+  date_month: VIII
+  title: "Joined Coinbase"
+  body: >-
+    Building foundation risk models for users in DeFi markets using machine
+    learning.
+
+- sort: 202508.1
+  date_year: 2025
+  date_month: VIII
+  title: "Teaching Assistant &mdash; EE 503 Probability"
+  body: >-
+    TA for the PhD-level probability course at USC, under Prof. Bart Kosko.
+
+- sort: 202505
+  date_year: 2025
+  date_month: V
+  title: "Paper at IEEE ICBC 2025"
+  body: >-
+    <em>&ldquo;Proactive Market Making and Liquidity Analysis for Everlasting
+    Options in DeFi Ecosystems.&rdquo;</em>
+  link: "https://ieeexplore.ieee.org/document/11114725"
+  link_label: "IEEE"
+
+- sort: 202505.1
+  date_year: 2025
+  date_month: V
+  title: "Summer ML Engineer intern at Coinbase"
+  body: >-
+    Worked on Coresets and Graph Machine Learning with Dr. Indrayana Rustandi.
+
+- sort: 202505.2
+  date_year: 2025
+  date_month: V
+  title: "Completed MS in Financial Engineering"
+  body: >-
+    Graduated with an M.S. in Financial Engineering from USC.

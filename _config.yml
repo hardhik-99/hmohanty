@@ -1,13 +1,19 @@
 title: Hardhik Mohanty
-logo: /assets/img/hm.jpg
-description: ""
-show_downloads: false
+description: "Ph.D. Candidate, USC — Machine Learning & Quantitative Research for DeFi"
+author: Hardhik Mohanty
+email: hmohanty@usc.edu
+
+url: "https://hardhik-99.github.io"
+baseurl: "/hmohanty"
+
 theme: jekyll-theme-minimal
 
-# Hide default theme footer elements
-github:
-  is_project_page: false
-  is_user_page: false
-  repository_name: ""
-  repository_url: ""
-  owner_name: ""
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - scripts/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/

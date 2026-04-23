@@ -1,0 +1,14 @@
+<section class="section interests reveal" aria-labelledby="research-heading">
+  <h2 id="research-heading" class="rule-label"><span>Research Interests</span></h2>
+  <ol class="interest-list">
+    {% for item in site.data.research %}
+    <li class="interest">
+      <span class="interest__numeral" aria-hidden="true">{{ item.numeral }}</span>
+      <div class="interest__body">
+        <h3 class="interest__title">{{ item.title }}</h3>
+        <p class="interest__tagline"><em>{{ item.tagline }}</em></p>
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
