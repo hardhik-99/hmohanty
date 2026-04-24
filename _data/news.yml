@@ -4,7 +4,7 @@
 
 - sort: 202611
   date_year: 2026
-  date_month: XI
+  date_month: Nov
   title: "Paper accepted to IEEE ICBC 2026"
   body: >-
     <em>&ldquo;Who Restores the Peg? A Mean-Field Game Approach to Model
@@ -14,8 +14,8 @@
 
 - sort: 202604
   date_year: 2026
-  date_month: IV
-  title: "New preprint on crypto volatility"
+  date_month: Apr
+  title: "New preprint on crypto volatility and prediction markets"
   body: >-
     <em>&ldquo;Do Prediction Markets Forecast Cryptocurrency Volatility?
     Evidence from Kalshi Macro Contracts.&rdquo;</em>
@@ -24,7 +24,7 @@
 
 - sort: 202508
   date_year: 2025
-  date_month: VIII
+  date_month: Aug
   title: "Joined Coinbase"
   body: >-
     Building foundation risk models for users in DeFi markets using machine
@@ -32,14 +32,14 @@
 
 - sort: 202508.1
   date_year: 2025
-  date_month: VIII
+  date_month: Aug
   title: "Teaching Assistant &mdash; EE 503 Probability"
   body: >-
     TA for the PhD-level probability course at USC, under Prof. Bart Kosko.
 
 - sort: 202505
   date_year: 2025
-  date_month: V
+  date_month: May
   title: "Paper at IEEE ICBC 2025"
   body: >-
     <em>&ldquo;Proactive Market Making and Liquidity Analysis for Everlasting
@@ -49,14 +49,27 @@
 
 - sort: 202505.1
   date_year: 2025
-  date_month: V
+  date_month: May
   title: "Summer ML Engineer intern at Coinbase"
   body: >-
     Worked on Coresets and Graph Machine Learning with Dr. Indrayana Rustandi.
 
-- sort: 202505.2
-  date_year: 2025
-  date_month: V
-  title: "Completed MS in Financial Engineering"
+- sort: 202408
+  date_year: 2024
+  date_month: Aug
+  title: "Preprint &mdash; Survey on Zero-Knowledge Proofs"
   body: >-
-    Graduated with an M.S. in Financial Engineering from USC.
+    <em>&ldquo;A Survey on the Applications of Zero-Knowledge Proofs.&rdquo;</em>
+    With R. Lavin, X. Liu, L. Norman, G. Zaarour, and B. Krishnamachari.
+  link: "https://arxiv.org/abs/2408.00243"
+  link_label: "arXiv"
+
+- sort: 202404
+  date_year: 2024
+  date_month: Apr
+  title: "Paper in Frontiers in Blockchain"
+  body: >-
+    <em>&ldquo;Modeling and Analysis of Crypto-Backed Over-Collateralized
+    Stable Derivatives in DeFi.&rdquo;</em> With Z. Feng and B. Krishnamachari.
+  link: "https://www.frontiersin.org/articles/10.3389/fbloc.2024.1392812"
+  link_label: "Frontiers"

@@ -5,9 +5,8 @@
     {% for item in items %}
     <li class="news-item">
       <time class="news-item__date">
-        <span class="news-item__year">{{ item.date_year }}</span>
-        <span class="news-item__sep" aria-hidden="true">&middot;</span>
         <span class="news-item__month">{{ item.date_month }}</span>
+        <span class="news-item__year">{{ item.date_year }}</span>
       </time>
       <div class="news-item__body">
         <h3 class="news-item__title">{{ item.title }}</h3>

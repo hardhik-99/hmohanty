@@ -2,17 +2,17 @@
 # Rendered in order with large Roman numerals.
 
 - numeral: I
-  title: "Machine Learning for Cryptocurrency Markets"
-  tagline: "Robust AI for noisy, adversarial on-chain data streams."
+  title: "Machine Learning for DeFi"
+  tagline: "Risk, fraud, and user-behavior models using Graph ML on on-chain data."
 
 - numeral: II
-  title: "Tokenomics &amp; Incentive Design"
-  tagline: "Economic models and governance for sustainable networks."
+  title: "Quantitative Modeling of Crypto Markets"
+  tagline: "Market microstructure, stablecoin dynamics, and liquidity under stress."
 
 - numeral: III
-  title: "Consensus in Dynamic Networks"
-  tagline: "Protocols that adapt, recover, and scale."
+  title: "Game Theory &amp; Mean-Field Dynamics"
+  tagline: "Agent-based equilibria for arbitrage, market making, and peg restoration."
 
 - numeral: IV
-  title: "Micropayments in Decentralized Networks"
-  tagline: "Fast, private, low-overhead value transfer."
+  title: "Crypto Volatility Forecasting"
+  tagline: "Macro signals from prediction markets that sharpen realized-volatility forecasts."

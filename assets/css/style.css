@@ -108,16 +108,6 @@ img {
   padding: 1rem 0 3rem;
 }
 
-.hero__eyebrow {
-  font-family: var(--display);
-  font-size: 0.72rem;
-  font-weight: 500;
-  letter-spacing: 0.32em;
-  text-transform: uppercase;
-  color: var(--ink-soft);
-  margin: 0 0 2rem;
-}
-
 .hero__name {
   font-family: var(--display);
   font-weight: 300;
@@ -315,10 +305,6 @@ img {
   gap: 0.4rem;
 }
 
-.news-item__sep {
-  color: var(--ink-muted);
-}
-
 .news-item__month {
   font-style: italic;
 }
@@ -383,10 +369,9 @@ img {
   transform: none;
 }
 
-.hero.is-visible .hero__eyebrow { transition-delay: 50ms; }
-.hero.is-visible .hero__name { transition-delay: 150ms; }
-.hero.is-visible .hero__subtitle { transition-delay: 300ms; }
-.hero.is-visible .socials { transition-delay: 450ms; }
+.hero.is-visible .hero__name { transition-delay: 50ms; }
+.hero.is-visible .hero__subtitle { transition-delay: 200ms; }
+.hero.is-visible .socials { transition-delay: 350ms; }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
