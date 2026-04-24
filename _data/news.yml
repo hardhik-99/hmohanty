@@ -2,9 +2,9 @@
 # Sorted in reverse by the `sort` key (higher = more recent).
 # Each entry: { sort, date_year, date_month, title, body?, link?, link_label? }
 
-- sort: 202611
+- sort: 202603
   date_year: 2026
-  date_month: Nov
+  date_month: Mar
   title: "Paper accepted to IEEE ICBC 2026"
   body: >-
     <em>&ldquo;Who Restores the Peg? A Mean-Field Game Approach to Model
