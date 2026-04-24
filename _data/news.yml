@@ -22,10 +22,10 @@
   link: "https://arxiv.org/abs/2604.01431"
   link_label: "arXiv"
 
-- sort: 202508
-  date_year: 2025
-  date_month: Aug
-  title: "Joined Coinbase"
+- sort: 202601
+  date_year: 2026
+  date_month: Jan
+  title: "Joined Coinbase as a part-time MLE"
   body: >-
     Building foundation risk models for users in DeFi markets using machine
     learning.

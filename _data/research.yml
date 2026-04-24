@@ -2,8 +2,8 @@
 # Rendered in order with large Roman numerals.
 
 - numeral: I
-  title: "Machine Learning for DeFi"
-  tagline: "Risk, fraud, and user-behavior models using Graph ML on on-chain data."
+  title: "Machine Learning for DeFi Markets"
+  tagline: "Risk, fraud, and user-behavior models learned from on-chain transaction data."
 
 - numeral: II
   title: "Quantitative Modeling of Crypto Markets"
