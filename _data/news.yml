@@ -40,11 +40,12 @@
 - sort: 202505
   date_year: 2025
   date_month: May
-  title: "Paper at IEEE ICBC 2025"
+  title: "Paper published at IEEE ICBC 2025"
   body: >-
     <em>&ldquo;Proactive Market Making and Liquidity Analysis for Everlasting
-    Options in DeFi Ecosystems.&rdquo;</em>
-  link: "https://ieeexplore.ieee.org/document/11114725"
+    Options in DeFi Ecosystems.&rdquo;</em> &mdash;
+    <a href="https://github.com/hardhik-99/liquidity-everlasting-options" target="_blank" rel="noopener">Simulator</a>
+  link: "https://ieeexplore.ieee.org/abstract/document/11114454"
   link_label: "IEEE"
 
 - sort: 202505.1
