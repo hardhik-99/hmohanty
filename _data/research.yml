@@ -2,7 +2,7 @@
 # Rendered in order with large Roman numerals.
 
 - numeral: I
-  title: "Machine Learning for DeFi Markets"
+  title: "Machine Learning for Risk Modeling in Digital Assets"
   tagline: "Risk, fraud, and user-behavior models learned from on-chain transaction data."
 
 - numeral: II
@@ -10,9 +10,9 @@
   tagline: "Market microstructure, stablecoin dynamics, and liquidity under stress."
 
 - numeral: III
-  title: "Game Theory &amp; Mean-Field Dynamics"
+  title: "Mathematical Modeling of Stablecoins"
   tagline: "Agent-based equilibria for arbitrage, market making, and peg restoration."
 
 - numeral: IV
-  title: "Crypto Volatility Forecasting"
+  title: "Prediction Markets for Crypto Volatility Forecasting"
   tagline: "Macro signals from prediction markets that sharpen realized-volatility forecasts."
