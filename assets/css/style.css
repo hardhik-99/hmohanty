@@ -320,6 +320,22 @@ img {
   margin-top: 0.5rem;
 }
 
+.personal-interests__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.25rem;
+  margin-right: 0.4rem;
+  color: var(--ink);
+  font-size: 0.95rem;
+  vertical-align: -0.1em;
+}
+
+.personal-interests__icon svg {
+  width: 1rem;
+  height: 1.25rem;
+}
+
 /* -------- News --------------------------------------------------------- */
 
 .news-list {
