@@ -3,16 +3,16 @@
 
 - numeral: I
   title: "Machine Learning for Risk Modeling of Digital Assets"
-  tagline: "Learning from transaction data to model risk, detect fraud, and understand user behavior."
+  tagline: "Learning from transaction data to model risk, detect fraud, and understand user behavior"
 
 - numeral: II
   title: "Quantitative Modeling of Crypto Markets"
-  tagline: "Modeling crypto derivatives, liquidity, and risk-aware hedging."
+  tagline: "Modeling crypto derivatives, liquidity, and risk-aware hedging"
 
 - numeral: III
   title: "Mathematical Modeling of Stablecoins"
-  tagline: "Arbitrage, redemption, and market interactions that shape stablecoin peg stability."
+  tagline: "Arbitrage, redemption, and market interactions that shape stablecoin peg stability"
 
 - numeral: IV
   title: "Prediction Markets for Crypto Volatility Forecasting"
-  tagline: "Using prediction-market signals to study and forecast cryptocurrency volatility."
+  tagline: "Using prediction-market signals to study and forecast cryptocurrency volatility"
